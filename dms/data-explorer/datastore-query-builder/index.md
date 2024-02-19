@@ -44,7 +44,7 @@ It's easier to learn by examples provided in the `/__fixtures__/` directory.
 ## Features
 
 * Date Picker - if the resource descriptor has a field with `date` type it will be displayed as a date picker element:
-![Date Picker](/static/img/docs/dms/data-explorer/date-picker.png)
+![Date Picker](date-picker.png)
 
 ## Available Scripts
 
