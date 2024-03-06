@@ -2,8 +2,6 @@
 
 **Start publishing with Datahub Cloud!**
 
----
-
 # Quick Start Guide
 
 At the end of this tutorial, you'll know how to use DataHub Cloud to turn datasets and data-driven content on GitHub into a published, shareable site.
@@ -21,6 +19,16 @@ At the end of this tutorial, you'll know how to use DataHub Cloud to turn datase
 ![[Screenshot-repo.png]]
 
 - Now that you've got your own copy, it's time to publish it with Datahub Cloud
+
+### Understanding the template
+
+The template repository you just created contains the following files:
+- The data.csv
+- README.md which has: 
+  - Structured data: Frontmatter with Frictionless data package spec in the `datapackage` field. It describes the data file(s) in the repository (in this case, the `data.csv`). 
+  - Unstructured data: Below the frontmatter, you can add a description / free text in markdown format
+
+> Note: If you want to edit the README, refer to the [Frictionless data package spec](https://specs.frictionlessdata.io/data-package/). 
 
 ## Sign up 
 
