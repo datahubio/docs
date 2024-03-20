@@ -51,7 +51,7 @@ You are ready to roll!
 
 Now you can either enhance this dataset or try publishing your own dataset (continue reading).
 
-> Note: For the time being, you're going to have to click on the "Sync" button on Datahub Cloud after every change made in your repository (we are currently working on removing this step).
+> Note: To ensure that your site displays the most recent version of your GitHub repository, simply click on the "Sync" button within Datahub Cloud App. This allows you to manage updates according to your preferences before making them public.
 
 ## Enhancing your dataset
 
@@ -68,6 +68,15 @@ Do you have an existing dataset on Github that you want to publish with Datahub 
 - Create a new site
 - Publish your dataset by choosing your dataset repository
 - Done! Click "Visit" to see the outcome
-- Share your cool new dataset page with colleagues and friends
+- Show off the URL of your dataset here https://github.com/datahubio/datahub/discussions/305
+- If something isn't rendering properly or there is an issue with your dataset being published, make sure to report it at support@datahub.io
 
+## Feedback and Contribution
+
+- Please share your feedback or ideas for improvement by opening a discussion here https://github.com/datahubio/datahub/discussions
+- If you want to contribute and help improve Datahub Cloud, you can write a react component, we import it and it's done! This way, you get to shape your own experience.
+
+## Have questions?
+
+If you have a question, please ping us on [Discord](https://discord.gg/wzvSgGDt) or send us an email at support@datahub.io
 
