@@ -1,17 +1,11 @@
-<div className="hero" style={{textAlign: "center"}}>
-  <h1>Datopian Tech</h1>
+---
+title: ➡️ Datopian Tech
+---
 
-  <a href="https://datopian.com/">
-    <img src="/static/img/datopian-logo.png" style={{maxWidth: "280px", display: "block", margin: "3rem auto 1.5rem"}} />
-  </a>
-
-  <p className="description" style={{fontSize: "1.6rem", lineHeight: 1.3}}>
-    We are experts in data management and engineering
-
-    This is an overview of our technology
-
-  </p>
+<div className="hero">
+    <p className="hero-description">We are experts in data management and engineering. This is an overview of our technology.</p>
 </div>
+
 
 ## Data Management Systems
 
