@@ -1,5 +1,13 @@
 {
   "showSidebar": true,
   "showEditLink": true,
-  "contentInclude": ["/DMS", "/DataHub Cloud", "/Core Data", "README.md", "config.json", "custom.css"]
+  "contentInclude": [
+    "/Core Data",
+    "/DataHub Cloud",
+    "/DMS",
+    "README.md",
+    "terms-of-service.md",
+    "config.json",
+    "custom.css"
+  ]
 }
