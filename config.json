@@ -1,5 +1,5 @@
 {
   "showSidebar": true,
   "showEditLink": true,
-  "contentExclude": ["terms-of-service.md", "privacy.md"]
+  "contentInclude": ["/DMS", "/DataHub Cloud", "README.md", "config.json"]
 }
