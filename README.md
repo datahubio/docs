@@ -11,3 +11,7 @@ title: ➡️ DataHub Documentation
 [[DMS/README|DMS Documentation]]
 
 ---
+
+[[Core Data/README|Core Data]]
+
+---
