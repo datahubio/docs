@@ -8,4 +8,4 @@ Auto-sync is enabled by default for newly created sites. This means the changes 
 
 You can easily toggle this option on or off on your site's settings page.
 
-![[./assets/Auto-sync.png]]
+![[Auto-sync.png]]
