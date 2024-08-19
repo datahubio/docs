@@ -1,4 +1,5 @@
 {
   "showSidebar": true,
-  "showEditLink": true
+  "showEditLink": true,
+  "contentExclude": ["terms-of-service.md", "privacy.md"]
 }
