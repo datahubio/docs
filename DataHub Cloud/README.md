@@ -1,7 +1,6 @@
 ---
 title: ➡ Documentation
 ---
-
 <div className="hero">
     <p className="hero-description">Datahub Cloud is your stupidly simple and fast tool for turning your data stories or datasets on GitHub into a published, shareable site. It converts raw data and Markdown files into beautifully presented, interactive sites.</p>
 </div>
