@@ -25,9 +25,7 @@ This document provides an overview of the configuration options available in the
 }
 ```
 
-## General Settings
-
-### 1. **`title`**
+## 1. **`title`**
 
 - **Description**: The title of your site displayed in the navbar (or the sidebar). It's also used as a default value for SEO title on all your site's pages.
 - **Example**:
@@ -36,7 +34,7 @@ This document provides an overview of the configuration options available in the
   "title": "My Awesome Site"
   ```
 
-### 2. **`logo`**
+## 2. **`logo`**
 
 - **Description**: The path to your site's logo.
 - **Example**:
@@ -45,7 +43,7 @@ This document provides an overview of the configuration options available in the
   "logo": "images/logo.png"
   ```
 
-### 3. **`description`**
+## 3. **`description`**
 
 - **Description**: The site description that will be displayed in the footer. It's also used as a default value for SEO description on all your site's pages.
 - **Example**:
@@ -73,8 +71,6 @@ This document provides an overview of the configuration options available in the
   "showEditLink": false
   ```
 - **Default:** `false`
-
-## Content Management
 
 ### 6. **`contentInclude`**
 
@@ -115,8 +111,6 @@ Can be used along with `contentInclude` to exclude some files/subdirectories fro
 
 The above configuration will only include `/blog` folder contents, excluding `/blog/archive` subdirectory.
 
-## Social Media Links
-
 ### 8. **`social`**
 
 - **Description**: Configures social media links that will appear in the footer and the navbar.
@@ -133,8 +127,6 @@ The above configuration will only include `/blog` folder contents, excluding `/b
   ]
   ```
 
-## Analytics
-
 ### 9. **`analytics`**
 
 - **Description**: The Google Analytics key used to track user interactions on your site.
@@ -143,8 +135,6 @@ The above configuration will only include `/blog` folder contents, excluding `/b
   ```json
   "analytics": "UA-XXXXXXXXX-X"
   ```
-
-## Author Information
 
 ### 10. **`author`**
 - **Description**: Contains information about the author of the site. If set, will include "Created by {author.name}" in the footer.
@@ -161,8 +151,6 @@ The above configuration will only include `/blog` folder contents, excluding `/b
   }
   ```
 
-## Navigation
-
 ### 11. **`navLinks`**
 - **Description**: Defines the site navigation links. Each object in the array represents a navigation link.
 - **Structure**:
@@ -178,4 +166,3 @@ The above configuration will only include `/blog` folder contents, excluding `/b
   ]
   ```
 
----
