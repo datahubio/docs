@@ -25,7 +25,7 @@ This document provides an overview of the configuration options available in the
 }
 ```
 
-## 1. **`title`**
+## **`title`**
 
 - **Description**: The title of your site displayed in the navbar (or the sidebar). It's also used as a default value for SEO title on all your site's pages.
 - **Example**:
@@ -34,7 +34,7 @@ This document provides an overview of the configuration options available in the
   "title": "My Awesome Site"
   ```
 
-## 2. **`logo`**
+## **`logo`**
 
 - **Description**: The path to your site's logo.
 - **Example**:
@@ -43,7 +43,7 @@ This document provides an overview of the configuration options available in the
   "logo": "images/logo.png"
   ```
 
-## 3. **`description`**
+## **`description`**
 
 - **Description**: The site description that will be displayed in the footer. It's also used as a default value for SEO description on all your site's pages.
 - **Example**:
@@ -52,7 +52,7 @@ This document provides an overview of the configuration options available in the
   "description": "Lorem ipsum dolor sit amed."
   ```
 
-### 4. **`showSideBar`**
+### **`showSideBar`**
 
 - **Description**: Enables or disables the sidebar on your site.
 - **Usage**: Set this to `true` to display the sidebar, or `false` to hide it and use the default site navbar.
@@ -62,7 +62,7 @@ This document provides an overview of the configuration options available in the
   ```
 - **Default:** `false`
 
-### 5. **`showEditLink`**
+### **`showEditLink`**
 
 - **Description**: Displays "Edit this page" link at the bottom of each page, allowing users to contribute to your site's GitHub repository.
 - **Usage**: Set this to `true` to show the edit link.
@@ -72,7 +72,7 @@ This document provides an overview of the configuration options available in the
   ```
 - **Default:** `false`
 
-### 6. **`contentInclude`**
+### **`contentInclude`**
 
 - **Description**: Specifies a list of files or directories to be explicitly included on the site. If not set or if set to `[]`, all files will be included.
 - **Example**:
@@ -85,7 +85,7 @@ This document provides an overview of the configuration options available in the
   ] 
   ```
 
-### 7. **`contentExclude`**
+### **`contentExclude`**
 
 - **Description**: Specifies a list of files or directories to be excluded from the site.
 - **Example**:
@@ -111,7 +111,7 @@ Can be used along with `contentInclude` to exclude some files/subdirectories fro
 
 The above configuration will only include `/blog` folder contents, excluding `/blog/archive` subdirectory.
 
-### 8. **`social`**
+### **`social`**
 
 - **Description**: Configures social media links that will appear in the footer and the navbar.
 - **Structure**: Each object in the list contains:
@@ -127,7 +127,7 @@ The above configuration will only include `/blog` folder contents, excluding `/b
   ]
   ```
 
-### 9. **`analytics`**
+### **`analytics`**
 
 - **Description**: The Google Analytics key used to track user interactions on your site.
 - **Example**:
@@ -136,7 +136,7 @@ The above configuration will only include `/blog` folder contents, excluding `/b
   "analytics": "UA-XXXXXXXXX-X"
   ```
 
-### 10. **`author`**
+### **`author`**
 - **Description**: Contains information about the author of the site. If set, will include "Created by {author.name}" in the footer.
 - **Fields**:
   - `name`: The author’s name.
@@ -151,7 +151,7 @@ The above configuration will only include `/blog` folder contents, excluding `/b
   }
   ```
 
-### 11. **`navLinks`**
+### **`navLinks`**
 - **Description**: Defines the site navigation links. Each object in the array represents a navigation link.
 - **Structure**:
   - `href`: The URL or path to navigate to.
