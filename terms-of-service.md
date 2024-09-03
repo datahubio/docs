@@ -28,7 +28,7 @@ The "Service" includes (a) the Site, (b) Company's cloud platform for hosting, s
 
 3.6. The failure of Company to exercise or enforce any right or provision of this TOS shall not be a waiver of that right. You acknowledge that this TOS is a contract between you and Company, even though it is electronic and is not physically signed by you and Company, and it governs your use of the Service.
 
-3.7. Company reserves the right to use your name and/or company name as a reference for marketing or promotional purposes on Company's website and in other communication with existing or potential Company customers. To decline Company this right you need to email **office@datopian.com** stating that you do not wish to be used as a reference.
+3.7. Company reserves the right to use your name and/or company name as a reference for marketing or promotional purposes on the Company's website and in other communications with existing or potential customers. If you prefer not to be used as a reference, you may opt out by following the "Unsubscribe" instructions included in any marketing emails. Please note that unsubscribing from marketing emails will not affect your receipt of administrative emails related to our services, such as notices of updates to our Terms of Service.
 
 3.8. Subject to the terms hereof, Company may (but has no obligation to) provide technical support services, through email in accordance with our standard practice.
 
