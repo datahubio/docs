@@ -137,7 +137,8 @@ The above configuration will only include `/blog` folder contents, excluding `/b
   ```
 
 ### **`author`**
-- **Description**: Contains information about the author of the site. If set, will include "Created by {author.name}" in the footer.
+
+- **Description**: Contains information about the author of the site. If set, will include "Created by {"{author.name}"}" in the footer.
 - **Fields**:
   - `name`: The author’s name.
   - `url`: A link to the author’s personal page or profile. 🚧
