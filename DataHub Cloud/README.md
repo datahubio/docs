@@ -16,7 +16,7 @@ title: ➡ Documentation
 
 ### How to deploy your first site within seconds
 
-The quickest way to start publishing with Datahub Cloud is to publish our template and customize it to fit your needs. You can do that in 5 simple steps:
+The quickest way to start publishing with Datahub Cloud is to publish our template and customize it to fit your needs. You can do that in 3 simple steps:
 
 1. Click on the selected template from the ones listed above and click "Use this template" at the top right to create a new repository
 2. Go to [the app](https://cloud.datahub.io/) and create a new site by selecting the repository you just created (leave the "Root Dir" field empty)
