@@ -19,7 +19,7 @@ title: ➡ Documentation
 The quickest way to start publishing with Datahub Cloud is to publish our template and customize it to fit your needs. You can do that in 5 simple steps:
 
 1. Click on the selected template from the ones listed above and click "Use this template" at the top right to create a new repository
-2. Go to [the app](https://0613d040.sibforms.com/serve/MUIFAMLy5tXMDC-gFjXRxBEcvyVYV9O9KLVoKMp1n6WMXE4LBazZkkV78pTBf3FnJHdhQpJoOYL3KsAbAv9yDYJooerqar47yy2RQkuP_Vs0CEkHexRMrkWsbKtTIi_DMOa9KfzpRVFa959hSXqJByMY5Gj9OrZtEX3ZrfO5OJHh7fLxh3nYgnNIBwGTpxJ25XA_MxOKv_kHKNgM) and create a new site by selecting the repository you just created (leave the "Root Dir" field empty)
+2. Go to [the app](https://cloud.datahub.io/) and create a new site by selecting the repository you just created (leave the "Root Dir" field empty)
 3. Done, it is now published! Just hit the green "Visit" button at the top right to see what it looks like.
 
 ### What to do after you publish your first site
