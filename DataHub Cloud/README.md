@@ -49,15 +49,15 @@ whattodoafter-->obsidian
 > The template works best for datasets. If you don't have any data files, we suggest starting from scratch (go to [Start from scratch](https://datahub.io/docs#start-from-the-scratch))
 
 <div className="middle-button-container">
-    <a href="https://datahub.io/docs/Customize%20Your%20DataHub%20Cloud%20Site%20with%20CSS" className="middle-button">Customize your site with CSS and HTML</a>
+    <a href="https://datahub.io/docs/DataHub+Cloud/Customize+Your+DataHub+Cloud+Site+with+CSS" className="middle-button">Customize your site with CSS and HTML</a>
 </div>
 
 <div className="middle-button-container">
-    <a href="https://datahub.io/docs/Add%20visuals%20and%20data-rich%20components" className="middle-button">Add visuals and data-rich components</a>
+    <a href="https://datahub.io/docs/DataHub+Cloud/Add+visuals+and+data-rich+components" className="middle-button">Add visuals and data-rich components</a>
 </div>
 
 <div className="middle-button-container">
-    <a href="https://datahub.io/docs/Add%20sidebar%20navigation" className="middle-button">Add sidebar navigation</a>
+    <a href="https://datahub.io/docs/DataHub+Cloud/Add+sidebar+navigation" className="middle-button">Add sidebar navigation</a>
 </div>
 
 ### Start from the scratch
