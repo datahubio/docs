@@ -52,7 +52,7 @@ This document provides an overview of the configuration options available in the
   "description": "Lorem ipsum dolor sit amed."
   ```
 
-### **`showSideBar`**
+## **`showSideBar`**
 
 - **Description**: Enables or disables the sidebar on your site.
 - **Usage**: Set this to `true` to display the sidebar, or `false` to hide it and use the default site navbar.
@@ -62,7 +62,18 @@ This document provides an overview of the configuration options available in the
   ```
 - **Default:** `false`
 
-### **`showEditLink`**
+## **`showToc`**
+
+- **Description**: Enables or disables the table of contents on your site's pages.
+- **Usage**: Set this to `true` to display the sidebar, or `false` to hide it and use the default site navbar.
+  
+  ```json
+  "showSideBar": true
+  ```
+- **Default:** `true`
+
+
+## **`showEditLink`**
 
 - **Description**: Displays "Edit this page" link at the bottom of each page, allowing users to contribute to your site's GitHub repository.
 - **Usage**: Set this to `true` to show the edit link.
@@ -72,7 +83,7 @@ This document provides an overview of the configuration options available in the
   ```
 - **Default:** `false`
 
-### **`contentInclude`**
+## **`contentInclude`**
 
 - **Description**: Specifies a list of files or directories to be explicitly included on the site. If not set or if set to `[]`, all files will be included.
 - **Example**:
@@ -85,7 +96,7 @@ This document provides an overview of the configuration options available in the
   ] 
   ```
 
-### **`contentExclude`**
+## **`contentExclude`**
 
 - **Description**: Specifies a list of files or directories to be excluded from the site.
 - **Example**:
@@ -111,7 +122,7 @@ Can be used along with `contentInclude` to exclude some files/subdirectories fro
 
 The above configuration will only include `/blog` folder contents, excluding `/blog/archive` subdirectory.
 
-### **`social`**
+## **`social`**
 
 - **Description**: Configures social media links that will appear in the footer and the navbar.
 - **Structure**: Each object in the list contains:
@@ -127,7 +138,7 @@ The above configuration will only include `/blog` folder contents, excluding `/b
   ]
   ```
 
-### **`analytics`**
+## **`analytics`**
 
 - **Description**: The Google Analytics key used to track user interactions on your site.
 - **Example**:
@@ -136,7 +147,7 @@ The above configuration will only include `/blog` folder contents, excluding `/b
   "analytics": "UA-XXXXXXXXX-X"
   ```
 
-### **`author`**
+## **`author`**
 
 - **Description**: Contains information about the author of the site. If set, will include "Created by {"{author.name}"}" in the footer.
 - **Fields**:
@@ -152,7 +163,7 @@ The above configuration will only include `/blog` folder contents, excluding `/b
   }
   ```
 
-### **`navLinks`**
+## **`navLinks`**
 - **Description**: Defines the site navigation links. Each object in the array represents a navigation link.
 - **Structure**:
   - `href`: The URL or path to navigate to.
