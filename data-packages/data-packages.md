@@ -30,7 +30,7 @@ on the Frictionless Data website to complement this quick introduction.
 
 ### Tabular Data
 
-**[Tabular Data Package](/docs/data-packages/tabular/)** extends Data Packages for tabular data. It supports providing additional information such as data types
+**[Tabular Data Package](/data-packages/tabular/)** extends Data Packages for tabular data. It supports providing additional information such as data types
 of columns.
 
 ### Tools

@@ -71,7 +71,7 @@ The functionality associated to the Data APIs can be divided in 6 areas:
   * Tracking & Analytics: rate-limiting etc
   * Write API: usually secondary because of its limited performance vs bulk loading
   * Bulk export of query results especially large ones (or even export of the whole dataset in the case where the data is stored directly in the DataStore rather than the FileStore). This is an increasingly important featurea lower priority but if required it is substantive feature to implement.
-* **Data Loader**: bulk loading data into the system that powers the data API. **This is covered in a [separate Data Load page](/docs/dms/load/).**
+* **Data Loader**: bulk loading data into the system that powers the data API. **This is covered in a [separate Data Load page](/dms/load/).**
   * Bulk Load: bulk import of individual data files
   * Maybe includes some ETL => this takes us more into data factory
 * **Storage (Structured)**: the underlying structured store for the data (and its layout). For example, Postgres and its table structure.This could be considered a separate component that the Data API uses or as part of the Data API -- in some cases the store and API are completely wrapped together, e.g. ElasticSearch is both a store and a rich Web API.
@@ -225,7 +225,7 @@ curl -X POST http://127.0.0.1:5000/api/3/action/datastore_create \
 
 ### Data Load
 
-See [Load page](/docs/dms/load#ckan-v2).
+See [Load page](/dms/load#ckan-v2).
 
 ### DataStore
 
@@ -260,7 +260,7 @@ Status: In Progress (RFC) - see https://github.com/datopian/data-api
 
 ### Data Load
 
-Implemented via AirCan. See [Load page](/docs/dms/load).
+Implemented via AirCan. See [Load page](/dms/load).
 
 ### Storage
 

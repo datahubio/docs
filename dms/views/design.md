@@ -1,6 +1,6 @@
 # Views - Design
 
-Design of [Views](/docs/dms/views).
+Design of [Views](/dms/views).
 
 ## Concepts and Background
 

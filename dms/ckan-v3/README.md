@@ -362,4 +362,4 @@ SQLite | Database | | Unknown use. Possibly a worker dependency.
 
 ### Old Next Gen Page
 
-Prior to this page, we had one called "Next Gen." It has intersections with this article, although it focuses more on the benefits of microservices. For the time being, the page still exists in [/ckan-v3/next-gen](/docs/dms/ckan-v3/next-gen), although it may get merged with this one in the future.
+Prior to this page, we had one called "Next Gen." It has intersections with this article, although it focuses more on the benefits of microservices. For the time being, the page still exists in [/ckan-v3/next-gen](/dms/ckan-v3/next-gen), although it may get merged with this one in the future.

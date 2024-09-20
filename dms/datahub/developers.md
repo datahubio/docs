@@ -6,13 +6,13 @@ This section of the DataHub documentation is for developers. Here you can learn 
 
 ## Internal docs
 
-* [API](/docs/dms/datahub/developers/api)
-* [Deploy](/docs/dms/datahub/developers/deploy)
-* [Platform](/docs/dms/datahub/developers/platform)
-* [Publish](/docs/dms/datahub/developers/publish)
-* [User Stories](/docs/dms/datahub/developers/user-stories)
-* [Views Research](/docs/dms/datahub/developers/views-research)
-* [Views](/docs/dms/datahub/developers/views)
+* [API](/dms/datahub/developers/api)
+* [Deploy](/dms/datahub/developers/deploy)
+* [Platform](/dms/datahub/developers/platform)
+* [Publish](/dms/datahub/developers/publish)
+* [User Stories](/dms/datahub/developers/user-stories)
+* [Views Research](/dms/datahub/developers/views-research)
+* [Views](/dms/datahub/developers/views)
 
 ## Repositories
 

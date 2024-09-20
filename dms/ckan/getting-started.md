@@ -68,10 +68,10 @@ and log in with the credentials that docker-compose setup created for you [user:
 
 ## Next Steps
 
-[Play around with CKAN portal](/docs/dms/ckan/play-around).
+[Play around with CKAN portal](/dms/ckan/play-around).
 
 ## Troubleshooting
 
 Login / Logout button breaks the experience:
 
-- Change the URL from `http://ckan:5000` to `http://localhost:5000`. A complete fix is described in the [Play around with CKAN portal](/docs/dms/ckan/play-around). (Your next step. ;))
+- Change the URL from `http://ckan:5000` to `http://localhost:5000`. A complete fix is described in the [Play around with CKAN portal](/dms/ckan/play-around). (Your next step. ;))

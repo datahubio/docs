@@ -113,5 +113,5 @@ See:
   * https://github.com/frictionlessdata/datapackage-render-js
 * [Data Explorer][] page in this site.
 
-For more on the technical background see the [Views Design page &raquo;](/docs/dms/views/design).
+For more on the technical background see the [Views Design page &raquo;](/dms/views/design).
 

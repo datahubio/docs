@@ -1,7 +1,7 @@
 # Data Explorer Design
 
 >[!note]
-Design sketches from Aug 2019. This remains a work in progress though a good part was implemented in the new [Data Explorer](/docs/dms/data-explorer).
+Design sketches from Aug 2019. This remains a work in progress though a good part was implemented in the new [Data Explorer](/dms/data-explorer).
 
 ## Job Stories
 

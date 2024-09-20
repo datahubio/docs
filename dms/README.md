@@ -46,13 +46,13 @@ A DMS has a variety of features. This section provides an overview and links to 
 > [!tip] There are many ways to break down features and this is just one framing. We are thinking about others and if you have thoughts please get in touch.
 
 
-- [Discovering and showcasing data (catalog and presenting)](/docs/dms/frontend)
-- [Views on data](/docs/dms/views) including visualizing and previewing data as well [Data Explorers][explorer] and [Dashboards][]
-- [Publishing data](/docs/dms/publish)
-- [Data API DataStore](/docs/dms/data-api)
-- [Permissions](/docs/dms/permissions) and [Authentication](/docs/dms/authentication)
-- [Versioning](/docs/dms/versioning)
-- [Harvesting](/docs/dms/harvesting)
+- [Discovering and showcasing data (catalog and presenting)](/dms/frontend)
+- [Views on data](/dms/views) including visualizing and previewing data as well [Data Explorers][explorer] and [Dashboards][]
+- [Publishing data](/dms/publish)
+- [Data API DataStore](/dms/data-api)
+- [Permissions](/dms/permissions) and [Authentication](/docs/dms/authentication)
+- [Versioning](/dms/versioning)
+- [Harvesting](/dms/harvesting)
 
 [dashboards]: /docs/dms/dashboards
 [explorer]: /docs/dms/data-explorer
@@ -61,12 +61,12 @@ A DMS has a variety of features. This section provides an overview and links to 
 
 A DMS has the following key components:
 
-- [HubStore](/docs/dms/hubstore)
-- [Data Flows and Factory](/docs/dms/flows)
-  - [Loading to DataStore](/docs/dms/load)
-- [Storage](/docs/dms/storage)
-  - [Blob Storage](/docs/dms/blob-storage)
-  - [Structured Storage - see DataStore](/docs/dms/data-api)
+- [HubStore](/dms/hubstore)
+- [Data Flows and Factory](/dms/flows)
+  - [Loading to DataStore](/dms/load)
+- [Storage](/dms/storage)
+  - [Blob Storage](/dms/blob-storage)
+  - [Structured Storage - see DataStore](/dms/data-api)
 
 https://coggle.it/diagram/Xiw2ZmYss-ddJVuK/t/data-portal-feature-breakdown
 
@@ -87,23 +87,23 @@ https://openspending.org/
 Service Reliability Engineering (SRE) and Developer Experience (DX) for our CKAN cluster technology.
 
 - [Developer Experience][dx]
-- [DX - Deploy](/docs/dms/dx/deploy)
-- [DX - Cluster](/docs/dms/dx/cluster)
+- [DX - Deploy](/dms/dx/deploy)
+- [DX - Cluster](/dms/dx/cluster)
 
 Old cluster
 
-- [Deploy in old cluster](/docs/dms/deploy)
-- [Exporting from CKAN-Cloud](/docs/dms/migration)
-- [Cloud](/docs/dms/cloud) - start on CKAN cloud documentation
+- [Deploy in old cluster](/dms/deploy)
+- [Exporting from CKAN-Cloud](/dms/migration)
+- [Cloud](/dms/cloud) - start on CKAN cloud documentation
 
 ## Research
 
-- [Data Frames and what would a JS data frame library look like](/docs/dms/dataframe)
-- [Dataset Relationships](/docs/dms/relationships)
+- [Data Frames and what would a JS data frame library look like](/dms/dataframe)
+- [Dataset Relationships](/dms/relationships)
 
 ## Miscellaneous
 
-- [Glossary &raquo;](/docs/dms/glossary)
-- [Notebook -- our informal blog &raquo;](/docs/dms/notebook)
+- [Glossary &raquo;](/dms/glossary)
+- [Notebook -- our informal blog &raquo;](/dms/notebook)
 
 [dx]: /docs/dms/dx

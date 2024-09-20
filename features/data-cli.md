@@ -6,7 +6,7 @@ excerpt: Learn how to use our Command Line Tool.
 
 ## Overview
 
-**`data`** is an important part of the [DataHub](/docs/about) project. It is a command line tool that helps you to publish (and get) data.
+**`data`** is an important part of the [DataHub](/about) project. It is a command line tool that helps you to publish (and get) data.
 
 For example you have a set of data as a result of your work, be it a few data files and a description. And you want to share it with your colleagues. With **`data`** you just need to:
 

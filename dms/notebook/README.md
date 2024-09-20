@@ -76,7 +76,7 @@ R Markdown - https://rmarkdown.rstudio.com
 
 Over the years, we've seen many different terms used to describe software like CKAN and the solutions it is used to create e.g. data catalog, data portal, data management system, data platform etc.
 
-Over time, personally, I've converged towards [data management system (DMS)](/docs/dms/dms) and [data portal](/docs/dms/data-portals). But I've still got two terms and even people in my own team ask me to clarify what the difference is. Recently it became clear to me:
+Over time, personally, I've converged towards [data management system (DMS)](/dms/dms) and [data portal](/docs/dms/data-portals). But I've still got two terms and even people in my own team ask me to clarify what the difference is. Recently it became clear to me:
 
 **A data management system (DMS) is a tool. A data portal is a solution.**
 
@@ -221,7 +221,7 @@ Distinguish 3 concepts
 
 ## What a (future) Data Project looks like 
 
-NB: To understand what a project is see [DMS](/docs/dms/dms).
+NB: To understand what a project is see [DMS](/dms/dms).
 
 It helps me to be very concreate and imagine what this looks looks like on disk:
 

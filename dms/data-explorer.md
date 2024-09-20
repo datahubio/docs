@@ -34,7 +34,7 @@ The above image displays a table shown at the `Table` tab, but note that Datapac
 
 <img alt="Datastore Query Builder" src="/static/img/docs/dms/data-explorer/query-builder.png" width="250px" />
 
-The Datastore Query Builder interfaces with the Datastore API to allow users to search data resources using an SQL like interface. See the docs for this module here - [Datastore Query Builder docs](/docs/dms/data-explorer/datastore-query-builder/).
+The Datastore Query Builder interfaces with the Datastore API to allow users to search data resources using an SQL like interface. See the docs for this module here - [Datastore Query Builder docs](/dms/data-explorer/datastore-query-builder/).
 
 ### [Map Builder](https://github.com/datopian/map-builder)
 
@@ -262,7 +262,7 @@ You need to have **node version >= 12** in order to build files. Otherwise a 'he
 ### Component changes
 
 If the changes involve component updates that live in separate repositories make sure to upgrade them too before building:
-1. Prepare the component with dist version (eg run yarn build:package in the component repo, see [this](/docs/dms/data-explorer/datastore-query-builder#release) for an example)
+1. Prepare the component with dist version (eg run yarn build:package in the component repo, see [this](/dms/data-explorer/datastore-query-builder#release) for an example)
 2. run `yarn add <package>` to get latest changes, e.g. `yarn add @datopian/datastore-query-builder` (do not use `yarn upgrade`, see here on why https://github.com/datopian/data-explorer/issues/28#issuecomment-700792966)
 3. you can verify changes in `yarn.lock` - there should be the latest component commit id
 4. `yarn build` in data-explorer
@@ -279,4 +279,4 @@ yarn add https://github.com/datopian/datastore-query-builder.git#<branch name>
 
 ## Appendix: Design
 
-See [Data Explorer Design page &raquo;](/docs/dms/data-explorer/design/)
+See [Data Explorer Design page &raquo;](/dms/data-explorer/design/)

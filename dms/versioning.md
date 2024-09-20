@@ -98,7 +98,7 @@ The CKAN v3 approach is based on extensions that are backwards compatible with C
 * Releases: support creating and managing releases (named labels plus a description for a specific revision of a dataset e.g. “v1.0”)
 * General UI and functionality: things like diffs, reverting, etc
 
-The first of these is is accomplished by using the new [Blob Storage v3](/docs/dms/blob-storage#ckan-v3).
+The first of these is is accomplished by using the new [Blob Storage v3](/dms/blob-storage#ckan-v3).
 
 The latter two are accomplished via [ckanext-versions][] extension.
 
@@ -109,7 +109,7 @@ The latter two are accomplished via [ckanext-versions][] extension.
 
 ## Design
 
-See [Versioning Design doc](/docs/dms/versioning/design).
+See [Versioning Design doc](/dms/versioning/design).
 
 
 ## Open Questions

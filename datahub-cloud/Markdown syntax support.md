@@ -133,12 +133,12 @@ Here is some code: `print("hello world!")`
 **Example:**
 
 ```md
-[Link to roadmap](/docs/roadmap)
+[Link to roadmap](/roadmap)
 ```
 
 **Renders as:**
 
-[Link to roadmap](/docs/roadmap)
+[Link to roadmap](/roadmap)
 
 ### Images
 

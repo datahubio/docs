@@ -49,8 +49,8 @@ d --> sink[Sink]
 
 CKAN v2 has two implicit data factory system embedded in other functionality. These systems are technically entirely independent:
 
-* Data Load system for loading data to the DataStore -- see [Data Load page &raquo;](/docs/dms/load/)
-* Harvesting system for importing dataset metadata from other catalogs -- see [Harvesting page &raquo;](/docs/dms/harvesting/)
+* Data Load system for loading data to the DataStore -- see [Data Load page &raquo;](/dms/load/)
+* Harvesting system for importing dataset metadata from other catalogs -- see [Harvesting page &raquo;](/dms/harvesting/)
 
 ## CKAN v3
 
@@ -73,18 +73,18 @@ CKAN integration:
 
 ### Design
 
-See [Design page](/docs/dms/flows/design).
+See [Design page](/dms/flows/design).
 
 
 ## Links
 
-* [Research](/docs/dms/flows/research) - list of tools and concepts with some analysis
-* [History](/docs/dms/flows/history) - some previous thinking and work (2016-2019)
+* [Research](/dms/flows/research) - list of tools and concepts with some analysis
+* [History](/dms/flows/history) - some previous thinking and work (2016-2019)
 
 
 ## Appendix: Our Previous Work
 
-See also [History page](/docs/dms/flows/history).
+See also [History page](/dms/flows/history).
 
 * http://www.dataflows.org/ - new system Adam + Rufus designed in spring 2018 and Adam led development on
   * https://github.com/datahq/dataflows

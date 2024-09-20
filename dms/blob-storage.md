@@ -2,7 +2,7 @@
 
 ## Introduction
 
-DMS and data portals often need to *store* data as well as metadata. As such, they require a system for doing this. This page focuses on Blob Storage aka Bulk or Raw storage (see [storage](/docs/dms/storage) page for an overview of all types of storage).
+DMS and data portals often need to *store* data as well as metadata. As such, they require a system for doing this. This page focuses on Blob Storage aka Bulk or Raw storage (see [storage](/dms/storage) page for an overview of all types of storage).
 
 Blob storage is for storing "blobs" of data, that is a raw stream of bytes like files on a filesystem. For blob storage think local filesystem or cloud storage like S3, GCS, etc.
 
@@ -19,7 +19,7 @@ Today, cloud storage would be the default in most cases.
 * Download: Fast, reliable download (possibly even with support for edge distribution)
 * Upload: reliable and rapid upload 
   * Direct upload to (cloud) storage by clients i.e. without going via the DMS. Why? Because cloud storage has many features that it would be costly replicate (e.g. multipart, resumable etc), excellent performance and reliability for upload. It also cuts out the middleman of the DMS backend thereby saving bandwidth, reducing load on the DMS backend and improving performance
-  * Upload UI: having an excellent UI for doing upload. NB: this UI is considered part of the [publish feature](/docs/dms/publish)
+  * Upload UI: having an excellent UI for doing upload. NB: this UI is considered part of the [publish feature](/dms/publish)
 * Cloud: integrate with cloud storage
 * Permissions: restricting access to data stored in blob storage based on the permissions of the DMS. For example, if Joe does not have access to a dataset on the DMS he should not be able to access associated blob data in the storage system
 

@@ -215,7 +215,7 @@ etl --> datavalidation
 
 * Theming - customizing the look and feel of the portal
   * i18n
-* CMS - e.g., news/ideas/about/docs. Learn about CMS options - [CMS](/docs/dms/data-portals/cms).
+* CMS - e.g., news/ideas/about. Learn about CMS options - [CMS](/docs/dms/data-portals/cms).
   * Blog
   * Contact page?
   * Help / Support / Chat

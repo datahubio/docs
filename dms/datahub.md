@@ -8,4 +8,4 @@ Our focus is on data wranglers and data scientists: those who use automate their
 
 Our goal is to provide simplicity *and* power.
 
-[Developer Docs &raquo;](/docs/dms/datahub/developers) {'<3'} Python, JavaScript and data pipelines? Start here!
+[Developer Docs &raquo;](/dms/datahub/developers) {'<3'} Python, JavaScript and data pipelines? Start here!

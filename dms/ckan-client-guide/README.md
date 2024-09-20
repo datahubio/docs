@@ -1,6 +1,6 @@
 # CKAN Client Guide
 
-Guide to interacting with [CKAN](/docs/dms/ckan) for power users such as data scientists, data engineers and data wranglers.
+Guide to interacting with [CKAN](/dms/ckan) for power users such as data scientists, data engineers and data wranglers.
 
 This guide is about adding and managing data in CKAN programmatically and it assumes:
 

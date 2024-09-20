@@ -65,7 +65,7 @@ When adding a resource which is currently stored in dropbox/gdrive/onedrive I wa
 
 ### Domain Model
 
-The domain model here is that of the [DMS](/docs/dms/dms) and we recommend visiting that page for more information. The key items are:
+The domain model here is that of the [DMS](/dms/dms) and we recommend visiting that page for more information. The key items are:
 
 * Project
 * Dataset

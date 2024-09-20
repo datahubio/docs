@@ -8,7 +8,7 @@ In this section, we are going to show some basic functionality of CKAN focused o
 
 ## Prerequisites
 
-- We assume you've already completed the [Getting Started Guide](/docs/dms/ckan/getting-started).
+- We assume you've already completed the [Getting Started Guide](/dms/ckan/getting-started).
 - You have a basic understanding of Key data portal concepts:
 
 CKAN is a tool for making data portals to manage and publish datasets. You can read about the key concepts such as Datasets and Organizations in the User Guide -- or you can just dive in and play around!
@@ -282,4 +282,4 @@ That's it! Now you should be able to see your dataset on the portal at http://ck
 
 ## Next steps
 
-* [Install Extensions](/docs/dms/ckan/install-extension).
+* [Install Extensions](/dms/ckan/install-extension).
