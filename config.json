@@ -2,9 +2,9 @@
   "showSidebar": true,
   "showEditLink": true,
   "contentInclude": [
-    "/Core Data",
-    "/DataHub Cloud",
-    "/DMS",
+    "/core-data",
+    "/datahub-cloud",
+    "/dms",
     "/assets",
     "README.md",
     "terms-of-service.md",
