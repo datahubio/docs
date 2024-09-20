@@ -4,14 +4,14 @@ title: ➡️ DataHub Documentation
 
 ---
 
-[[Core Data/README|Core Data]]
+[[core-data/README|Core Data]]
 
 ---
 
-[[DataHub Cloud/README|DataHub Cloud Documentation]]
+[[datahub-cloud/README|DataHub Cloud Documentation]]
 
 ---
 
-[[DMS/README|DMS Documentation]]
+[[dms/README|DMS Documentation]]
 
 ---
