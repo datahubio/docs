@@ -6,7 +6,7 @@ sidebar: auto
 
 The Datopian Data Explorer is a React single page application and framework for creating and displaying rich data explorers (think Tableau-lite). Use stand-alone or with CKAN. For CKAN it is a drop-in replacement for ReclineJS in CKAN Classic.
 
-![Data Explorer](data-explorer.png)
+![Data Explorer](../assets/data-explorer.png)
 > [Data Explorer for the City of Montreal](http://montreal.ckan.io/ville-de-montreal/geobase-double#resource-G%C3%83%C2%A9obase%20double)
 
 ## Features / Highlights
@@ -24,7 +24,7 @@ The Data Explorer application acts as a coordinating layer and state management 
 
 ### [Datapackage Views](https://github.com/datopian/datapackage-views-js)
 
-![Datapackage Views](datapackage-views.png)
+![Datapackage Views](../assets/datapackage-views.png)
 
 Datapackage View is the rendering engine for the main window of the Data Explorer.
 
@@ -164,7 +164,7 @@ import ru from './locales/ru/translation.json'
 
 To see your language changes in Data Explorer you can run `yarn start` and change the language cookie of the page (`defaultLocale`):
 
-![i18n Cookie](i18n-cookie.png)
+![i18n Cookie](../assets/i18n-cookie.png)
 
 ### Language detection
 
