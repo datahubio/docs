@@ -88,7 +88,7 @@ When I'm using the CLI app (or anything else outside browser), I want to be able
 
 In classic system, we have basic CKAN authentication. Below is how registration page looks like:
 
-![CKAN Classic register page](ckan-register.png)
+![CKAN Classic register page](../assets/ckan-register.png)
 
 Registration flow in CKAN Classic:
 
