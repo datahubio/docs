@@ -1,5 +1,5 @@
 ---
-title: Term of Service
+title: Terms of Service
 ---
 
 Last update: 2017-08-09
