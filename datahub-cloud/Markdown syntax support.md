@@ -133,12 +133,12 @@ Here is some code: `print("hello world!")`
 **Example:**
 
 ```md
-[Link to roadmap](/roadmap)
+[Link to Terms of Service](/terms-of-service)
 ```
 
 **Renders as:**
 
-[Link to roadmap](/roadmap)
+[Link to Terms of Service](/terms-of-service)
 
 ### Images
 
@@ -222,13 +222,12 @@ Flowershow will convert internal links to HTML `a` tags, with their `href` attri
 
 **Internal link types**
 
-- Link to a page, e.g. `[[/docs/blog]]`, which renders as [[/docs/blog]]
-- Link to a page with a custom name, e.g. `[[/docs/blog|Blog support]]`, which renders as [[/docs/blog|Blog support]]
-- Link to a specific heading within a given page `[[/docs/blog#Blog author frontmatter fields]]`, which renders as [[/docs/blog#Blog author frontmatter fields]]
-- Link to a specific heading within a given page with a custom name, e.g. `[[/docs/blog#Blog author frontmatter fields|Some alias]]` which renders as [[/docs/blog#Blog author frontmatter fields|Some alias]]
+- Link to a page, e.g. `[[/terms-of-service]]`, which renders as [[/terms-of-service]]
+- Link to a page with a custom name, e.g. `[[/terms-of-service|Terms of Service]]`, which renders as [[/terms-of-service|Terms of Service]]
+- Link to a specific heading within a given page `[[/terms-of-service#3-general-conditions--access-and-use-of-the-service]]`, which renders as [[/terms-of-service#3-general-conditions--access-and-use-of-the-service]]
+- Link to a specific heading within a given page with a custom name, e.g. `[[/terms-of-service#3-general-conditions--access-and-use-of-the-service|Terms of Service]]` which renders as [[/terms-of-service#3-general-conditions--access-and-use-of-the-service|Terms of Service]]
 - Link to an image file with supported image formats - png, jpg and jpeg, eg. `![[/assets/images/park.png]]` which renders as:
   ![[park.png]]
-- 🚧 Link to a specific block (paragraph) within a given page, e.g. `[[/docs/blog#f93ba0]]`
 
 > [!note]
 > Note, that Flowershow will also handle Obsidian wiki links with "shortest path when possible" setting.
