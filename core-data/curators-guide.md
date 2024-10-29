@@ -3,23 +3,16 @@ title: Core Data Curators Guide
 excerpt: A guide for Core Data Curators on curating core data.
 ---
 
-This is a guide for curators of ["core data"][core-intro]. Curators collect and maintain these important and commonly-used (“core”) datasets as high-quality, easy-to-use, open [Data Packages][dp].
-
-[dp]: http://frictionlessdata.io/data-packages/
+This is a guide for curators of ["core data"](/core-data). Curators collect and maintain these important and commonly-used (“core”) datasets as high-quality, easy-to-use, open [Data Packages](http://frictionlessdata.io/data-packages/).
 
 ## Quick Links
 
-- [Discussion forum][forum] - discussion takes place here by default
+- [Discussion forum](http://discuss.okfn.org/category/open-knowledge-labs/core-datasets) - discussion takes place here by default
   - This is the place to ask questions, get help etc - just open a new topic
-- [Introduction to Core Datasets Project][core-intro]
-- [Join the Core Data Curators Team][core-intro-team]
+- [Introduction to Core Datasets Project](/core-data)
+- [Join the Core Data Curators Team](/core-data/curators)
 - [Packaging Queue (GitHub Issues Tracker)](https://github.com/datasets/registry/issues)
-- [Publish Data Packages Howto on Frictionless Data Site][publish-howto]
-
-[core-intro]: /docs/core-data
-[core-intro-team]: /docs/core-data/curators
-[forum]: http://discuss.okfn.org/category/open-knowledge-labs/core-datasets
-[publish-howto]: /docs/data-packages/publish/
+- [Publish Data Packages Howto on Frictionless Data Site](/data-packages/publish)
 
 ## Quick Start
 
@@ -76,9 +69,7 @@ This involves researching and selecting datasets as core datasets and adding the
 
 Once we have a suggested dataset marked as "ready to package" we can move to packaging it up.
 
-How to package up data is covered in the [general publishing guide][pub].
-
-[pub]: /docs/data-packages/publish
+How to package up data is covered in the [general publishing guide](/data-packages/publish).
 
 #### 3. Quality Assurance
 
@@ -107,10 +98,7 @@ Many data packages package data that changes over time - for example, many time 
 
 We need people to become the "maintainer" for a given dataset and keep it up to date by regularly adding in the new data.
 
-**[List of datasets needing a maintainer][maintainer]**
-
-[maintainer]: https://github.com/datasets/registry/labels/Status%3A%20Maintainer%20Wanted
-
+**[List of datasets needing a maintainer](https://github.com/datasets/registry/labels/Status%3A%20Maintainer%20Wanted)**
 
 ### Core Data Assessment Criteria
 
