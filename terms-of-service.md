@@ -76,4 +76,4 @@ This agreement is made under the laws of England and Wales.
 
 ## 14. Privacy
 
-Please visit our [Privacy Policy][privacy] to understand how the Company collects and uses personal information.
+Please visit our [Privacy Policy](privacy) to understand how the Company collects and uses personal information.
