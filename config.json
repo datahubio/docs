@@ -1,4 +1,41 @@
 {
+  "title": "DataHub Cloud",
+  "description": "At Datahub, we provide various solutions to Publish and Deploy your Data with power and simplicity. Datahub is the fastest way for individuals, teams and organizations to publish, deploy and share their data.",
+  "logo": "https://r2-assets.datahub.io/logo.svg",
+  "favicon": "https://r2-assets.datahub.io/favicon.ico",
+  "thumbnail": "https://r2-assets.datahub.io/thumbnail.png",
+  "nav": {
+    "logo": "https://r2-assets.datahub.io/logo.svg",
+    "links": [
+      {
+        "href": "/blog",
+        "name": "Blog"
+      },
+      {
+        "href": "/solutions",
+        "name": "Solutions"
+      },
+      {
+        "href": "/collections",
+        "name": "Collections"
+      },
+      {
+        "href": "/publish",
+        "name": "Publish"
+      }
+    ],
+    "social": [
+      {
+        "label": "discord",
+        "name": "Discord",
+        "href": "https://discord.com/invite/KrRzMKU"
+      }
+    ],
+    "cta": {
+      "href": "https://datahub.io/login",
+      "name": "Sign in"
+    }
+  },
   "showSidebar": true,
   "showEditLink": true,
   "contentInclude": [
