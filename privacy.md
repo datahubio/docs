@@ -38,7 +38,7 @@ We process usage data on the basis of our legitimate interests in operating, sec
 
 We keep usage data as follows:
 
-- IP addresses from file downloads and API requests are stored separately from other usage data and deleted after 90 days. Reports we produce from them keep only aggregate figures, not IP addresses.
+- IP addresses from file downloads and API requests are stored separately from other usage data and deleted within 90 days. Reports we produce from them keep only aggregate figures, not IP addresses.
 - Usage data without IP addresses, including approximate location and network, is kept for up to 7 years.
 - Counters we use to enforce usage limits are kept for no longer than one month.
 
