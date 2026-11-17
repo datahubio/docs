@@ -2,7 +2,7 @@
 title: Privacy Policy
 ---
 
-Last update: 2017-08-09
+Last update: 2026-11-17
 
 ## Our Policy
 
@@ -20,9 +20,29 @@ By voluntarily providing us with Personal Data, you are consenting to our use of
 
 ### Other Information
 
-#### Non-Identifiable Data
+#### Usage Data
 
-When you interact with **Datopian** through the Services, we receive and store certain personally non-identifiable information. Such information, which is collected passively using various technologies, cannot presently be used to specifically identify you. **Datopian** may store such information itself or such information may be included in databases owned and maintained by **Datopian** affiliates, agents or service providers. The Services may use such information and pool it with other information to track, for example, the total number of visitors to our Site, the number of visitors to each page of our Site, and the domain names of our visitors' Internet service providers. It is important to note that no Personal Data is available or used in this process.
+When you use the Services, we automatically record information about how they are used. We use **PostHog**, an analytics service hosted in the European Union, as our processor for this information.
+
+- **Website visits.** When you browse the Site, we record the pages you view, the links and buttons you click, page performance, your browser and device type, and recordings of your session on the page (text you type into form fields is masked). PostHog derives an approximate location (country, region, city and postal code) from your IP address and then discards the IP address; it is not stored. If you are signed in, this information is linked to your account.
+- **File downloads and API requests.** When you or your software request a data file from the Services, we record the dataset and file requested, the time, the user agent of your browser or software, your IP address, and the network your IP address belongs to: its autonomous system number and the name of the organization that operates it (for example an internet service provider, university, company or cloud provider). If you make the request with an account or API key, it is also linked to that account. We look up the network from a local copy of the [IP to ASN Lite database by DB-IP](https://db-ip.com), licensed under CC BY 4.0.
+
+We use usage data to:
+
+- measure how often datasets are used, and by what kinds of organizations, so we can maintain and improve the Services;
+- set and enforce fair-use limits on free access;
+- detect and investigate abuse, such as automated traffic that degrades the Services for others;
+- understand demand for our paid offerings, including identifying organizations that make heavy use of datasets.
+
+We process usage data on the basis of our legitimate interests in operating, securing, improving and funding the Services. You can object to this processing by contacting us as described below.
+
+We keep usage data as follows:
+
+- IP addresses from file downloads and API requests are stored separately from other usage data and deleted after 90 days. Reports we produce from them keep only aggregate figures, not IP addresses.
+- Usage data without IP addresses, including approximate location and network, is kept for up to 7 years.
+- Counters we use to enforce usage limits are kept for no longer than one month.
+
+#### Cookies
 
 In operating the Services, we may use a technology called "cookies." A cookie is a piece of information that the computer that hosts our Services gives to your browser when you access the Services. Our cookies help provide additional functionality to the Services and help us analyze Services usage more accurately. For instance, our Site may set a cookie on your browser that allows you to access the Services without needing to remember and then enter a password more than once during a visit to the Site. In all cases in which we use cookies, we will not collect Personal Data except with your permission. On most web browsers, you will find a "help" section on the toolbar. Please refer to this section for information on how to receive notification when you are receiving a new cookie and how to turn cookies off. We recommend that you leave cookies turned on because they allow you to take advantage of some of the Service features.
 
