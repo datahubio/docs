@@ -24,7 +24,11 @@ By voluntarily providing us with Personal Data, you are consenting to our use of
 
 When you use the Services, we automatically record information about how they are used. We use **PostHog**, an analytics service hosted in the European Union, as our processor for this information.
 
-- **Website visits.** When you browse the Site, we record the pages you view, the links and buttons you click, page performance, your browser and device type, messages your browser writes to its developer console, and recordings of your session on the page. In session recordings, text you type into form fields is masked; other text shown on the page is recorded. PostHog derives an approximate location (country, region, city and postal code) from your IP address and then discards the IP address; it is not stored. If you are signed in, this information is linked to your account, and your name and email address are sent to PostHog with it.
+- **Website visits.** When you browse the Site, we record the pages you view, the links and buttons you click, page performance, and your browser and device type. What else we record depends on your choice in our cookie banner (see [Cookies](#cookies) below):
+  - **If you accept analytics cookies**, we also make recordings of your session on the page, including messages your browser writes to its developer console. In session recordings, text you type into form fields is masked; other text shown on the page is recorded. If you are signed in, this information is linked to your account, and your name and email address are sent to PostHog with it.
+  - **If you reject them, or have not chosen yet**, we record your visits without cookies. To count unique visitors, PostHog combines your IP address and browser details with a value that changes every day; your visits are not linked across days or to your account, and no session recordings are made.
+
+  PostHog may derive an approximate location (country, region, city and postal code) from your IP address and then discards the IP address; it is not stored.
 - **File downloads and API requests.** When you or your software request a data file from the Services, we record the dataset and file requested, the time, the user agent of your browser or software, your IP address, and the network your IP address belongs to: its autonomous system number and the name of the organization that operates it (for example an internet service provider, university, company or cloud provider). If you make the request with an account or API key, it is also linked to that account. We look up the network from a local copy of the [IP to ASN Lite database by DB-IP](https://db-ip.com), licensed under CC BY 4.0.
 
 We use usage data to:
@@ -34,7 +38,7 @@ We use usage data to:
 - detect and investigate abuse, such as automated traffic that degrades the Services for others;
 - understand demand for our paid offerings, including identifying organizations that make heavy use of datasets.
 
-We process usage data on the basis of our legitimate interests in operating, securing, improving and funding the Services. You can object to this processing by contacting us as described below.
+We make session recordings, set analytics cookies and load Google Tag Manager only with your consent, which you can withdraw at any time (see [Cookies](#cookies)). We process the rest of the usage data on the basis of our legitimate interests in operating, securing, improving and funding the Services. You can object to this processing by contacting us as described below.
 
 We keep usage data as follows:
 
@@ -45,14 +49,18 @@ We keep usage data as follows:
 
 #### Cookies
 
-The Services store small pieces of information in your browser, as cookies and in your browser's local storage:
+The Services store small pieces of information in your browser, as cookies and in your browser's local storage. The first time you visit the Site, a banner asks whether you accept analytics cookies. Until you accept, we store only what the Site needs to work:
 
 - **Sign-in.** When you sign in, we set a cookie that keeps you signed in. Without it, you would have to sign in on every page.
-- **Analytics.** PostHog stores a random identifier in a cookie and in local storage, so that it can tell your visits apart and link them to your account when you sign in. It is set as soon as you load the Site.
-- **Google Tag Manager.** The Site loads Google Tag Manager on every page. The tags it loads, such as Google Analytics, can set their own cookies.
+- **Your cookie choice.** We remember in local storage whether you accepted or rejected analytics cookies, so that we don't ask again on every page.
 - **Preferences.** We remember in local storage whether you have dismissed a banner, and we keep a record in your browser's session storage of which data previews you have already opened during a visit.
 
-We set the analytics cookies and load Google Tag Manager without asking you first. You can block or delete cookies and local storage in your browser settings; most browsers explain how in their "help" section. If you block the sign-in cookie, you will not be able to sign in.
+If you accept analytics cookies:
+
+- **Analytics.** PostHog stores a random identifier in a cookie and in local storage, so that it can tell your visits apart and link them to your account when you sign in.
+- **Google Tag Manager.** We load Google Tag Manager. The tags it loads, such as Google Analytics, can set their own cookies. Some publishers add their own Google Analytics to their dataset pages; it also loads only if you accept.
+
+You can change your choice at any time with the "Cookie settings" link at the bottom of the Site's public pages. If you withdraw your consent, we delete the PostHog and Google Analytics cookies. You can also block or delete cookies and local storage in your browser settings; most browsers explain how in their "help" section. If you block the sign-in cookie, you will not be able to sign in.
 
 #### Aggregated Personal Data
 
@@ -90,7 +98,7 @@ We may also share your Personal Data with our Related Companies for purposes con
 - **Brevo** holds our mailing lists. When you create an account, subscribe to our newsletter or join a waitlist, it receives your email address.
 - **GitHub** provides sign-in. When you sign in, we receive your GitHub profile and email address, and permission to read your repositories so that we can publish data from them; we sync published content from GitHub. When you submit a data request, we record your name, email address, organization type and request in a GitHub repository that we use to track requests.
 - **Inngest** runs our background jobs, such as syncing your data from GitHub. It receives the identifiers of your datasets and repositories and, when you delete a dataset, your GitHub access token so that the job can act for you.
-- **Google Tag Manager** and **Google Analytics** measure use of the Site. Besides what the tags collect in your browser, we send Google Analytics events such as the creation and automatic syncing of a dataset, with your account identifier.
+- **Google Tag Manager** and **Google Analytics** measure use of the Site. They load in your browser only if you accept analytics cookies. Separately, our servers send Google Analytics events such as the creation and automatic syncing of a dataset, with your account identifier.
 - **OpenRouter** generates SQL queries from plain-language questions when you use AI SQL generation. It receives the question you type, the names, types, titles and descriptions of the columns in the tables you are querying, and up to three sample rows from each table. OpenRouter passes the request to the AI model provider that runs the model.
 - **PostHog** records usage data, as described above.
 
