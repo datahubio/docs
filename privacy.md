@@ -6,7 +6,7 @@ Last update: 2026-11-18
 
 ## Our Policy
 
-Welcome to the web site (the "Site") of **Datopian (Atomatic Ltd)**, Inc. ("**Datopian**"), "we", "us" and/or "our"). This Site is operated by **Datopian** and has been created to provide information about our company and our cloud platform for on-demand data hosting, sharing and processing services (together with the Site, the "Services") to our Service visitors ("you", "your"). This Privacy Policy sets forth **Datopian**'s policy with respect to information including personally identifiable data ("Personal Data") and other information that is collected from visitors to the Site and Services.
+Welcome to the web site (the "Site") of **Viderum Inc.**, trading as **Datopian** ("**Datopian**", "we", "us" and/or "our"), 303 Twin Dolphin Drive, Suite 600, Redwood City, CA 94065, United States. This Site is operated by **Datopian** and has been created to provide information about our company and our cloud platform for on-demand data hosting, sharing and processing services (together with the Site, the "Services") to our Service visitors ("you", "your"). This Privacy Policy sets forth **Datopian**'s policy with respect to information including personally identifiable data ("Personal Data") and other information that is collected from visitors to the Site and Services. **Datopian** is the controller of the Personal Data described in this policy.
 
 ## Information We Collect
 
@@ -120,7 +120,7 @@ You also have the right to complain to the data protection supervisory authority
 
 ## Exclusions
 
-This Privacy Policy does not apply to any Personal Data collected by **Datopian** other than Personal Data collected through the Services. This Privacy Policy shall not apply to any unsolicited information you provide to **Datopian ** through the Services or through any other means. This includes, but is not limited to, information posted to any public areas of the Services, such as forums, any ideas for new products or modifications to existing products, and other unsolicited submissions (collectively, "Unsolicited Information"). All Unsolicited Information shall be deemed to be non-confidential and **Datopian (Atomatic Ltd)** shall be free to reproduce, use, disclose, and distribute such Unsolicited Information to others without limitation or attribution.
+This Privacy Policy does not apply to any Personal Data collected by **Datopian** other than Personal Data collected through the Services. This Privacy Policy shall not apply to any unsolicited information you provide to **Datopian** through the Services or through any other means. This includes, but is not limited to, information posted to any public areas of the Services, such as forums, any ideas for new products or modifications to existing products, and other unsolicited submissions (collectively, "Unsolicited Information"). All Unsolicited Information shall be deemed to be non-confidential and **Datopian** shall be free to reproduce, use, disclose, and distribute such Unsolicited Information to others without limitation or attribution.
 
 ## Children
 
@@ -146,6 +146,6 @@ The Services and our business may change from time to time. As a result, at time
 
 To keep your Personal Data accurate, current, and complete, please contact us as specified below. We will take reasonable steps to update or correct Personal Data in our possession that you have previously submitted via the Services.
 
-Please also feel free to contact us if you have any questions about **Datopian**'s Privacy Policy or the information practices of the Services You may contact us by emailing us at **datahub-legal@datopian.com**.
+Please also feel free to contact us if you have any questions about **Datopian**'s Privacy Policy or the information practices of the Services. You may contact us by emailing us at **datahub-legal@datopian.com**, or by post at Viderum Inc. (Datopian), 303 Twin Dolphin Drive, Suite 600, Redwood City, CA 94065, United States.
 
 [tos]: /docs/terms-of-service
