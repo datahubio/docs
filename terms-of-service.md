@@ -2,11 +2,11 @@
 title: Terms of Service
 ---
 
-Last update: 2017-08-09
+Last update: 2026-11-18
 
 ## 1. Acceptance of Terms
 
-1.1. **Datopian (Atomatic Ltd)**, Inc. ("Company" or "we") provides the DataHub Service (as defined below) to you through its web site and platform located at **https://datahub.io** (the "Site"), subject to this Terms of Service agreement ("TOS"). By accepting this TOS or by accessing or using the Service or Site, you acknowledge that you have read, understood, and agree to be bound by this TOS. If you are entering into this TOS on behalf of a company, business or other legal entity, you represent that you have the authority to bind such entity and its affiliates to this TOS, in which case the terms "you" or "your" shall refer to such entity and its affiliates. If you do not have such authority, or if you do not agree with this TOS, you must not accept this TOS and may not use the Service.
+1.1. **Viderum Inc.**, trading as **Datopian**, 303 Twin Dolphin Drive, Suite 600, Redwood City, CA 94065, United States ("Company" or "we") provides the DataHub Service (as defined below) to you through its web site and platform located at **https://datahub.io** (the "Site"), subject to this Terms of Service agreement ("TOS"). By accepting this TOS or by accessing or using the Service or Site, you acknowledge that you have read, understood, and agree to be bound by this TOS. If you are entering into this TOS on behalf of a company, business or other legal entity, you represent that you have the authority to bind such entity and its affiliates to this TOS, in which case the terms "you" or "your" shall refer to such entity and its affiliates. If you do not have such authority, or if you do not agree with this TOS, you must not accept this TOS and may not use the Service.
 
 1.2. Company may change this TOS from time to time by providing thirty (30) days prior notice either by emailing the email address associated with your account or by posting a notice on the Site. You can review the most current version of this TOS at any time **at https://datahub.io/docs/terms-of-service**. The revised terms and conditions will become effective thirty (30) days after we post or send you notice of such changes, and if you use the Service after that date, your use will constitute acceptance of the revised terms and conditions. If any change to this TOS is not acceptable to you, your only remedy is stop using the Services and send a cancellation email to **office@datopian.com**.
 
@@ -70,10 +70,6 @@ If any provision of this TOS is found to be unenforceable or invalid, that provi
 
 The parties will engage in good faith negotiations to resolve the dispute for a period of ten (10) business days after written notice of the dispute or issue is provided by one party to the other. Within such ten (10) business days, representatives from each party will engage in negotiations to resolve the dispute, and such individuals will meet in person, via videoconference or via telephone and attempt to informally resolve the dispute or issues. If those persons are unable to resolve the dispute within such ten (10) business days, then unless the parties have mutually agreed to extend the negotiation period, a party may exercise its rights available to such party under this agreement or otherwise.
 
-## 13. Governing law
-
-This agreement is made under the laws of England and Wales.
-
-## 14. Privacy
+## 13. Privacy
 
 Please visit our [Privacy Policy](privacy) to understand how the Company collects and uses personal information.
