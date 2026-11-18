@@ -24,7 +24,7 @@ By voluntarily providing us with Personal Data, you are consenting to our use of
 
 When you use the Services, we automatically record information about how they are used. We use **PostHog**, an analytics service hosted in the European Union, as our processor for this information.
 
-- **Website visits.** When you browse the Site, we record the pages you view, the links and buttons you click, page performance, your browser and device type, and recordings of your session on the page (text you type into form fields is masked). PostHog derives an approximate location (country, region, city and postal code) from your IP address and then discards the IP address; it is not stored. If you are signed in, this information is linked to your account.
+- **Website visits.** When you browse the Site, we record the pages you view, the links and buttons you click, page performance, your browser and device type, messages your browser writes to its developer console, and recordings of your session on the page. In session recordings, text you type into form fields is masked; other text shown on the page is recorded. PostHog derives an approximate location (country, region, city and postal code) from your IP address and then discards the IP address; it is not stored. If you are signed in, this information is linked to your account, and your name and email address are sent to PostHog with it.
 - **File downloads and API requests.** When you or your software request a data file from the Services, we record the dataset and file requested, the time, the user agent of your browser or software, your IP address, and the network your IP address belongs to: its autonomous system number and the name of the organization that operates it (for example an internet service provider, university, company or cloud provider). If you make the request with an account or API key, it is also linked to that account. We look up the network from a local copy of the [IP to ASN Lite database by DB-IP](https://db-ip.com), licensed under CC BY 4.0.
 
 We use usage data to:
@@ -41,10 +41,18 @@ We keep usage data as follows:
 - IP addresses from file downloads and API requests are stored separately from other usage data and deleted within 90 days. Reports we produce from them keep only aggregate figures, not IP addresses.
 - Usage data without IP addresses, including approximate location and network, is kept for up to 7 years.
 - Counters we use to enforce usage limits are kept for no longer than one month.
+- Session recordings are kept for 30 days.
 
 #### Cookies
 
-In operating the Services, we may use a technology called "cookies." A cookie is a piece of information that the computer that hosts our Services gives to your browser when you access the Services. Our cookies help provide additional functionality to the Services and help us analyze Services usage more accurately. For instance, our Site may set a cookie on your browser that allows you to access the Services without needing to remember and then enter a password more than once during a visit to the Site. In all cases in which we use cookies, we will not collect Personal Data except with your permission. On most web browsers, you will find a "help" section on the toolbar. Please refer to this section for information on how to receive notification when you are receiving a new cookie and how to turn cookies off. We recommend that you leave cookies turned on because they allow you to take advantage of some of the Service features.
+The Services store small pieces of information in your browser, as cookies and in your browser's local storage:
+
+- **Sign-in.** When you sign in, we set a cookie that keeps you signed in. Without it, you would have to sign in on every page.
+- **Analytics.** PostHog stores a random identifier in a cookie and in local storage, so that it can tell your visits apart and link them to your account when you sign in. It is set as soon as you load the Site.
+- **Google Tag Manager.** The Site loads Google Tag Manager on every page. The tags it loads, such as Google Analytics, can set their own cookies.
+- **Preferences.** We remember in local storage whether you have dismissed a banner, and we keep a record in your browser's session storage of which data previews you have already opened during a visit.
+
+We set the analytics cookies and load Google Tag Manager without asking you first. You can block or delete cookies and local storage in your browser settings; most browsers explain how in their "help" section. If you block the sign-in cookie, you will not be able to sign in.
 
 #### Aggregated Personal Data
 
@@ -72,7 +80,19 @@ We may also share your Personal Data with our Related Companies for purposes con
 
 ### Agents, Consultants and Related Third Parties
 
-**Datopian**, like many businesses, sometimes hires other companies to perform certain business-related functions. Examples of such functions include mailing information, maintaining databases and processing payments. When we employ another entity to perform a function of this nature, we only provide them with the information that they need to perform their specific function.
+**Datopian**, like many businesses, sometimes hires other companies to perform certain business-related functions. When we employ another entity to perform a function of this nature, we only provide them with the information that they need to perform their specific function. We use the following service providers:
+
+- **Vercel** hosts the Services. It handles every request to the Site, including your IP address. We also use Vercel's key-value store to limit how often each IP address can use AI SQL generation.
+- **Cloudflare R2** stores the data files published on the Services, including files you publish.
+- **Cloudflare Turnstile** checks that a person, not a bot, is submitting our data request form. It runs a check in your browser when you open the form.
+- **Stripe** processes payments for premium datasets. It receives your email address, the payment details you enter on its checkout page, the dataset you buy and our analytics identifier for your browser.
+- **Resend** sends our transactional email, such as the welcome email when you create an account and the download link for a dataset you buy. It receives your email address and name.
+- **Brevo** holds our mailing lists. When you create an account, subscribe to our newsletter or join a waitlist, it receives your email address.
+- **GitHub** provides sign-in. When you sign in, we receive your GitHub profile and email address, and permission to read your repositories so that we can publish data from them; we sync published content from GitHub. When you submit a data request, we record your name, email address, organization type and request in a GitHub repository that we use to track requests.
+- **Inngest** runs our background jobs, such as syncing your data from GitHub. It receives the identifiers of your datasets and repositories and, when you delete a dataset, your GitHub access token so that the job can act for you.
+- **Google Tag Manager** and **Google Analytics** measure use of the Site. Besides what the tags collect in your browser, we send Google Analytics events such as the creation and automatic syncing of a dataset, with your account identifier.
+- **OpenRouter** generates SQL queries from plain-language questions when you use AI SQL generation. It receives the question you type, the names, types, titles and descriptions of the columns in the tables you are querying, and up to three sample rows from each table. OpenRouter passes the request to the AI model provider that runs the model.
+- **PostHog** records usage data, as described above.
 
 ### Legal Requirements
 
@@ -81,6 +101,22 @@ We may also share your Personal Data with our Related Companies for purposes con
 ## Your Choices
 
 You can visit the Site without providing any Personal Data. If you choose not to provide any Personal Data, you may not be able to use certain Services.
+
+## Your Rights
+
+If you are in the European Economic Area or the United Kingdom, or another place with similar data protection laws, you have the right to:
+
+- **access** the Personal Data we hold about you and get a copy of it;
+- **rectification**: have inaccurate Personal Data corrected and incomplete Personal Data completed;
+- **erasure**: have your Personal Data deleted;
+- **restriction**: have us limit how we use your Personal Data, for example while we check a complaint about its accuracy;
+- **portability**: receive Personal Data you gave us in a structured, machine-readable format, or have it sent to another organization;
+- **objection**: object to processing we base on our legitimate interests, including the usage data processing described above, and to direct marketing at any time;
+- **withdraw your consent** at any time where we process your Personal Data on the basis of your consent. This does not affect processing that took place before you withdrew it.
+
+To exercise any of these rights, email us at **datahub-legal@datopian.com**. We may ask you to confirm your identity before we act on your request.
+
+You also have the right to complain to the data protection supervisory authority in the country where you live or work, or where you think your rights were infringed.
 
 ## Exclusions
 
