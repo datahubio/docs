@@ -2,7 +2,7 @@
 title: Terms of Service
 ---
 
-Last update: 2026-11-18
+Last update: 2026-11-19
 
 ## 1. Acceptance of Terms
 
@@ -70,6 +70,10 @@ If any provision of this TOS is found to be unenforceable or invalid, that provi
 
 The parties will engage in good faith negotiations to resolve the dispute for a period of ten (10) business days after written notice of the dispute or issue is provided by one party to the other. Within such ten (10) business days, representatives from each party will engage in negotiations to resolve the dispute, and such individuals will meet in person, via videoconference or via telephone and attempt to informally resolve the dispute or issues. If those persons are unable to resolve the dispute within such ten (10) business days, then unless the parties have mutually agreed to extend the negotiation period, a party may exercise its rights available to such party under this agreement or otherwise.
 
-## 13. Privacy
+## 13. Governing Law
+
+This TOS is governed by the laws of the State of California, United States, without regard to its conflict-of-laws rules. Any dispute arising out of or relating to this TOS that is not resolved under Section 12 will be brought exclusively in the state or federal courts located in San Mateo County, California, and both parties consent to the personal jurisdiction of those courts. If you use the Service as a consumer, nothing in this section deprives you of the protection of the mandatory laws of your country of residence or of your right to bring proceedings in its courts.
+
+## 14. Privacy
 
 Please visit our [Privacy Policy](privacy) to understand how the Company collects and uses personal information.
